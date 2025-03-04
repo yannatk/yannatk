@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yann Attakoui</h1>
+<h1 align="center">Hi 👋, I'm Yann</h1>
 <h3 align="center">A Digital Artist who likes to bring awesome apps and tools to the world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yannatk&label=Profile%20views&color=0e75b6&style=flat" alt="yannatk" /> </p>
